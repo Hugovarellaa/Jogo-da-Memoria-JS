@@ -1,4 +1,13 @@
 # Jogo-da-memoria
  📝 Jogo com animação em Javascript
- 
-Curso ProgramadorBR
+ ## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+- Curso programadorBR
